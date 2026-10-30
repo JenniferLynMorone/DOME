@@ -80,7 +80,7 @@ These are open problems, named honestly rather than presented as finished plans:
 
 ## Built with
 
-Python · local models via Ollama · Obsidian · Git · n8n · Neo4j · Hermes Agent · OpenRouter · Jev · Backblaze B2 · restic · Tailscale · Claude Code
+Python · local models via Ollama · Obsidian · Git · n8n · Neo4j · Hermes Agent · OpenRouter · Jev · Backblaze B2 · restic · Tailscale · Claude Code · Codex
 
 ---
 
