@@ -18,8 +18,6 @@ DOME's scope is everything: every input to a life and every output, each output 
 
 **Value comes from being, not only from producing.** Any data, however passive, helps the whole rebalance: matching resources to real needs, reducing waste and overconsumption, acting on climate. Growth still happens; what grows changes. The aim is a dividend for being, not only for working, and a path beyond compulsory work, overconsumption, greed and waste.
 
-DOME continues more than a decade of work by [Jennifer Lyn Morone](https://jennifermorone.com), from *Jennifer Lyn Morone™ Inc.*, the artwork in which she incorporated herself, to RadicalxChange.
-
 ---
 
 ## How the parts fit
