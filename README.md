@@ -6,7 +6,7 @@ Every person, place, thing and idea is inherently plural, part of a larger whole
 
 **Its purpose is awareness.** When the parts of a whole can see themselves clearly, they understand their own needs, their value and their effect on others, for better or worse, and can govern themselves, democratically.
 
-**It is also part of an economic engine.** Simply by existing, we generate value as data; today others capture it. In DOME, **creator agents** make and remake the library into goods, products, services and information, or simply into efficiency. **HAL, the Holistic Accountability Ledger,** understands what each part of the whole contributes and what it needs, and allocates accordingly: a dividend for being, not only for working. A path beyond compulsory work, overconsumption, greed and waste.
+**DOME is also one part of a wider economic engine.** Simply by existing, we generate value as data; today others capture it. In the wider engine, **creator agents** make and remake the library into goods, products, services and information, or simply into efficiency. **HAL, the Holistic Accountability Ledger,** understands what each part of the whole contributes and what it needs, and allocates accordingly: a dividend for being, not only for working. A path beyond compulsory work, overconsumption, greed and waste.
 
 DOME continues more than a decade of work by [Jennifer Lyn Morone](https://jenniferlynmorone.com) — from *Jennifer Lyn Morone™ Inc.*, the artwork in which she incorporated herself and claimed her data as an asset, to RadicalxChange. What was once a provocation is now buildable.
 
@@ -26,16 +26,24 @@ DOME continues more than a decade of work by [Jennifer Lyn Morone](https://jenni
    └──────────────────────────┬────────────────────────────────────────────────┘
                               │  vertical harnesses: one job each, proven by evals
                               │
-   INGEST ──► LIBRARY ──► GRAPH ──► LENSES ──► CREATORS ──► HAL
-   every      one object  people ·   every      make and     Holistic
-   trace of   per item,   places ·   discipline, remake the   Accountability
-   a life     fingerprint- things ·  tradition   library into Ledger: knows what
-              addressed   ideas ·    and way of  goods,       each part contributes
-                          consent    knowing     services,    and needs, and
-                                                 information, allocates
-                                                 efficiency      │
-      ▲                                                          │
-      └──────────── value and awareness return to the whole ◄────┘
+   ┌──────────────────── DOME ────────────────────┐
+   │ INGEST ──► LIBRARY ──► GRAPH ──► LENSES       │
+   │ every      one object  people ·  every        │
+   │ trace of   per item,   places ·  discipline,  │
+   │ a life     fingerprint things ·  tradition    │
+   │            addressed   ideas ·   and way of   │
+   │                        consent   knowing      │
+   └──────────────────────────┬────────────────────┘
+                              │ feeds
+   ┌──────────────── THE WIDER ECONOMIC ENGINE ───────────────────┐
+   │ CREATORS ──────────────────────► HAL                         │
+   │ make and remake the library      Holistic Accountability     │
+   │ into goods, services,            Ledger: knows what each     │
+   │ information, efficiency          part contributes and needs, │
+   │                                  and allocates               │
+   └──────────────────────────────────────┬───────────────────────┘
+      ▲                                   │
+      └─── value and awareness return to the whole ◄──┘
 ```
 
 **Principles**
